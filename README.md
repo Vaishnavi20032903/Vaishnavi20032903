@@ -1,6 +1,6 @@
 <!-- ================= TOP IMAGE ================= -->
 <p align="center">
-  <img src="./image1.jpg" width="85%" />
+  <img src="./image1.jpg" width="65%" />
 </p>
 
 
