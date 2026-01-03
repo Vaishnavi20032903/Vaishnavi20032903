@@ -2,16 +2,22 @@
 <p align="center">
   <img src="./image1.jpg" width="55%" />
 </p>
+<h3 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Welcome+to+Vaishnavi’s+GitHub+World" 
+    alt="Welcome to Vaishnavi’s GitHub World" 
+  />
+</h3>
 
 <!-- ================= BIG WELCOME HEADING ================= -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=900&lines=Welcome+to+Vaishnavi’s+GitHub+World" />
-</h1>
 
 <!-- ================= SUBLINE ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Where+creativity+drifts+and+logic+takes+form" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=5EEAD4&center=true&vCenter=true&width=700&lines=Where+creativity+drifts+and+logic+takes+form" 
+  />
 </p>
+
 
 <!-- ================= PROFILE VIEWS ================= -->
 <p align="center">
@@ -140,6 +146,18 @@ text-shadow:0 0 10px #5EEAD4;
 <hr style="border:1px solid #5EEAD4;" />
 
 <!-- ================= GITHUB STATS ================= -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi20032903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi20032903&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi20032903&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaishnavi20032903&theme=tokyonight" width="55%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaishnavi20032903&theme=tokyonight" width="95%" />
+</p>
+
 <h2 style="
 color:#9B5DE5;
 background: radial-gradient(circle, rgba(155,93,229,0.35), transparent 70%);
@@ -225,4 +243,7 @@ text-shadow:0 0 10px #9B5DE5;
 
 <p align="center" style="color:#A78BFA;">
 🦋 I don’t rush mastery — I practice it.
+</p>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
