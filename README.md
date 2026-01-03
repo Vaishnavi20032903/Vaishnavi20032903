@@ -1,174 +1,141 @@
-<!-- ================= TOP HERO IMAGE ================= -->
+<!-- 🌸 TOP HERO IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/top-image.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/main/image1.jpg" width="100%" />
 </p>
 
-<!-- ================= TYPING + GLOW TITLE ================= -->
+<!-- 🦋 FLOATING BUTTERFLIES -->
+<p align="center">
+  <img src="https://svgur.com/i/zvK.svg" width="120" />
+  <img src="https://svgur.com/i/zvK.svg" width="90" />
+  <img src="https://svgur.com/i/zvK.svg" width="70" />
+</p>
+
+<!-- ⚔️ TYPING GLOW TITLE -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=28&
-  duration=3000&
-  pause=1000&
-  color=9B5DE5&
-  center=true&
-  vCenter=true&
-  width=600&
-  lines=Step+Into+Vaishnavi’s+GitHub+World" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=650&lines=Step+Into+Vaishnavi’s+GitHub+World" />
 </h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-  type=rect&
-  color=gradient&
-  height=2&
-  width=60%" />
+<!-- ✨ SLIDING GLOW SUBLINE -->
+<p align="center" style="font-size:18px; color:#5EEAD4;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=550&lines=Where+creativity+drifts+and+logic+takes+form" />
 </p>
 
+<!-- 👁️ PROFILE VIEWS -->
 <p align="center">
-  <b><i>Where creativity drifts and logic takes form</i></b>
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi20032903&label=Profile%20Views&color=9b5de5&style=for-the-badge" />
 </p>
 
-<!-- ================= PROFILE VIEWS ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=9b5de5&style=for-the-badge" />
+<hr style="border:1px solid #9B5DE5;" />
+
+<!-- ⚔️ ABOUT ME -->
+<h2 style="color:#9B5DE5;">⚔️ ABOUT ME — <i>The Coder’s Discipline</i></h2>
+
+<p style="color:#CBD5E1; font-size:16px;">
+🌸 <b>Hi, I’m Vaishnavi Bhakare (she/her)</b> — a Computer Science graduate who believes great code is built with focus, patience, and consistency.
 </p>
 
----
+<p style="color:#A5F3FC;">
+🦋 I work in the quiet space where logic, creativity, and technology come together — learning not just how to write code, but how to think clearly through problems.
+</p>
 
-## ⚔️ ABOUT ME — *The Coder’s Discipline*
+<!-- 🖼️ ABOUT IMAGE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/main/image2.jpg" width="90%" />
+</p>
 
-<table>
-<tr>
-<td width="60%">
+<h3 style="color:#5EEAD4;">🧠 MY APPROACH</h3>
 
-### 🌸 Short Intro
-I’m **Vaishnavi Bhakare (she/her)** — a computer science graduate who believes that  
-**great code is built with focus, patience, and consistency**.
-
-🦋 I work in the quiet space where **logic, creativity, and technology** meet —  
-learning not just how to write code, but **how to think clearly through problems**.
-
----
-
-### 🧠 MY APPROACH
-⚔️ Like mastering a blade, I approach technology with discipline.  
+<p style="color:#E9D5FF;">
+⚔️ Like mastering a blade, I approach technology with discipline.<br>
 I observe first, understand deeply, and then build with intent.
+</p>
 
-🌙 I enjoy creating things that are **clean, meaningful, and functional** —  
-whether it’s an interface, a solution, or a data story.
+<p style="color:#FBCFE8;">
+🌙 I enjoy creating things that are clean, meaningful, and functional — whether it’s an interface, a solution, or a data story.
+</p>
 
----
+<hr style="border:1px solid #5EEAD4;" />
 
-### 🗡️ Training Disciplines
-- ⚔️ **Interface Craft** — HTML, CSS & JavaScript  
-- 🧩 **Logic Training** — C & C++  
-- 🤖 **Automation & Scripting** — Python & PHP  
-- 📊 **Data Insight Practice** — Power BI  
-- 🌱 **Daily Improvement** — Hands-on projects
+<!-- 🗡️ SKILLS -->
+<h2 style="color:#9B5DE5;">🗡️ SKILLS — Demon Slayer Training</h2>
 
-🌸 *Growth is quiet, but progress is powerful.*
+<ul style="color:#E0F2FE;">
+  <li>⚔️ <b>Interface Craft</b> — HTML, CSS, JavaScript</li>
+  <li>🧩 <b>Logic Training</b> — C, C++</li>
+  <li>🤖 <b>Automation & Scripting</b> — Python, PHP</li>
+  <li>📊 <b>Data Insight Practice</b> — Power BI</li>
+  <li>🌱 <b>Daily Improvement</b> — Hands-on projects</li>
+</ul>
 
-</td>
+<p style="color:#F9A8D4;">
+🌸 <i>Growth is quiet, but progress is powerful.</i>
+</p>
 
-<td width="40%">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/about-image.jpg" width="100%" />
-</td>
-</tr>
-</table>
+<hr style="border:1px solid #9B5DE5;" />
 
----
+<!-- 🦋 TECH STACK -->
+<h2 style="color:#5EEAD4;">🦋 Technologies I Work With</h2>
+<h4 style="color:#9B5DE5;">My Arsenal</h4>
 
-## 🌙 Upcoming Focus Areas
-⚔️ Beyond my current skill set, I’m preparing for the next stage of my journey.
-
-- 🤖 Artificial Intelligence  
-- 📈 Machine Learning  
-- 🧠 Data-Driven Intelligence  
-- 🧪 Hands-on AI/ML Projects  
-
-🌸 *Today I train in code, tomorrow I shape intelligent systems.*
-
----
-
-## 🦋 Technologies I Work With
-<h4 align="center">⚔️ My Arsenal</h4>
-
-<p align="center">
-⚔️ <i>Every tool I use is a weapon I’ve trained with through hands-on projects.</i>
+<p style="color:#E9D5FF;">
+⚔️ Every tool I use is a weapon I’ve trained with through hands-on projects.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?
-  i=c,cpp,html,css,bootstrap,python,java,flask,numpy,pandas,sklearn,php,mysql,postgresql,sqlite,tableau,powerbi,javascript&
-  theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,python,java,php,flask,numpy,pandas,sklearn,sql,postgres,tableau,powerbi&theme=dark" />
 </p>
 
-<p align="center">🌸 <i>Not mastery yet — but disciplined training every day.</i></p>
-
----
-
-## 📊 GITHUB STATS — *The Training Records*
-
-<p align="center">
-🦋 <i>Progress is built quietly, day by day.</i>
+<p align="center" style="color:#FBCFE8;">
+🌸 <i>Not mastery yet — but disciplined training every day.</i>
 </p>
 
+<hr style="border:1px solid #5EEAD4;" />
+
+<!-- 📊 GITHUB STATS -->
+<h2 style="color:#9B5DE5;">📊 GITHUB STATS — The Training Records</h2>
+
+<p style="color:#A5F3FC;">🦋 Progress is built quietly, day by day.</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
-  username=YOUR_USERNAME&
-  show_icons=true&
-  theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi20032903&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?
-  user=YOUR_USERNAME&
-  theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi20032903&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
-  username=YOUR_USERNAME&
-  layout=compact&
-  theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi20032903&layout=compact&theme=tokyonight" />
 </p>
 
-🌸 *Still training — still improving.*
+<p style="color:#F9A8D4;">
+⚔️ <i>Still training — still improving.</i>
+</p>
 
----
+<hr style="border:1px solid #9B5DE5;" />
 
-## ⭐ Highlighted Work
-<i>Projects where ideas turn into real, working solutions</i>
+<!-- ⭐ FEATURED PROJECTS -->
+<h3 style="color:#9B5DE5;">⭐ Highlighted Work</h3>
+<p style="color:#A5F3FC;">Projects where ideas turn into real, working solutions</p>
 
-### ⚔️ Mission: College Website System
-- **Objective:** Responsive college department website  
-- **Tech:** HTML, CSS, JavaScript, PHP  
-- **Outcome:** Structured, user-friendly system  
-- **Status:** ✅ Completed
+<ul style="color:#E0F2FE;">
+<li>⚔️ <b>College Website System</b> — HTML, CSS, JS, PHP</li>
+<li>⚔️ <b>Department Web Portal</b> — HTML, CSS, JS</li>
+<li>⚔️ <b>Data Visualization Dashboard</b> — Power BI</li>
+</ul>
 
-### ⚔️ Mission: Department Web Portal
-- **Objective:** Academic & faculty showcase  
-- **Tech:** HTML, CSS, JavaScript  
-- **Outcome:** Improved structure & content  
-- **Status:** 🌱 Improving
+<hr style="border:1px solid #5EEAD4;" />
 
-### ⚔️ Mission: Data Visualization Dashboard
-- **Objective:** Turn data into insights  
-- **Tech:** Power BI  
-- **Outcome:** Interactive dashboards  
-- **Status:** 🔍 Learning & Expanding
+<!-- 🤝 CONNECT -->
+<h3 style="color:#9B5DE5;">🌐 Let’s Connect Outside GitHub</h3>
 
----
-
-## 🌐 Let’s Connect Outside GitHub
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/
-    💼%20View%20My%20LinkedIn%20Profile-
-    9B5DE5?
-    style=for-the-badge&
-    logo=linkedin&
-    logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/💼%20View%20My%20LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+<!-- 🦋 END -->
+<p align="center" style="color:#A78BFA;">
+🦋 <i>Today I train in code — tomorrow I shape intelligent systems.</i>
 </p>
