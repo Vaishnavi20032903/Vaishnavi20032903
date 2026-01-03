@@ -4,10 +4,7 @@
 </p>
 
 
-<!-- ================= BUTTERFLIES ================= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120">
-</p>
+
 
 <!-- ================= MAIN TITLE ================= -->
 <h3 align="center" style="color:#9B5DE5; text-shadow: 0 0 8px #9B5DE5;">
