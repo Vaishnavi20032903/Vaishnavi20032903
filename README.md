@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Welcome+to+Vaishnavi’s+GitHub+World" 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1000&color=7DD3FC&center=true&vCenter=true&width=1900&lines=Welcome+to+Vaishnavi’s+GitHub+World" 
     alt="Welcome to Vaishnavi’s GitHub World" 
   />
 </h3>
