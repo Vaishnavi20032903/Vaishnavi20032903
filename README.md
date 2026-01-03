@@ -1,27 +1,35 @@
-<!-- ================= TOP IMAGE ================= -->
+<!-- ================= TOP HERO IMAGE ================= -->
 <p align="center">
-  <img src="./image1.jpg" width="65%" />
+  <img src="./image1.jpg" width="85%" />
 </p>
 
+<!-- ================= BIG WELCOME HEADING ================= -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=900&lines=Welcome+to+Vaishnavi’s+GitHub+World" />
+</h1>
 
-
-
-<!-- ================= MAIN TITLE ================= -->
-<h3 align="center" style="color:#9B5DE5; text-shadow: 0 0 8px #9B5DE5;">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=650&lines=Step+Into+Vaishnavi’s+GitHub+World"
-  />
-</h3>
-
-<!-- ================= SUB LINE ================= -->
-<p align="center" style="color:#5EEAD4; font-size:18px; text-shadow:0 0 6px #5EEAD4;">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=1000&color=5EEAD4&center=true&vCenter=true&width=550&lines=Where+creativity+drifts+and+logic+takes+form"
-  />
+<!-- ================= SUBLINE ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Where+creativity+drifts+and+logic+takes+form" />
 </p>
 
 <!-- ================= PROFILE VIEWS ================= -->
-<h2 style="color:#9B5DE5;">⚔️ ABOUT ME — The Coder’s Discipline</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi20032903&label=Profile%20Views&color=9B5DE5&style=for-the-badge" />
+</p>
+
+<hr style="border:1px solid #9B5DE5;" />
+
+<!-- ================= ABOUT ME ================= -->
+<h2 style="
+color:#9B5DE5;
+background: radial-gradient(circle, rgba(155,93,229,0.35), transparent 70%);
+padding:14px;
+border-radius:12px;
+text-shadow:0 0 10px #9B5DE5, 0 0 20px #5EEAD4;
+">
+⚔️ ABOUT ME — The Coder’s Discipline
+</h2>
 
 <table>
 <tr>
@@ -50,14 +58,7 @@ I observe first, understand deeply, and then build with intent.
 🌙 I enjoy creating things that are clean, meaningful, and functional — whether it’s an interface, a solution, or a data story.
 </p>
 
-</td>
-
-<td width="35%" align="right">
-  <img src="./image2.jpg" width="260px" />
-</td>
-</tr>
-</table>
-
+<h3 style="color:#9B5DE5;">🗡️ SKILLS — DEMON SLAYER STYLE (REIMAGINED)</h3>
 
 <ul style="color:#E0F2FE;">
   <li>⚔️ <b>Interface Craft</b> — Designing structured, responsive experiences using HTML, CSS & JavaScript</li>
@@ -73,10 +74,26 @@ I observe first, understand deeply, and then build with intent.
 🌸 Growth is quiet, but progress is powerful.
 </p>
 
-<hr style="border:1px solid #5EEAD4;"/>
+</td>
 
-<!-- ================= FUTURE ================= -->
-<h2 style="color:#9B5DE5;">🌙 Upcoming Focus Areas</h2>
+<td width="35%" align="right">
+  <img src="./image2.jpg" width="260px" />
+</td>
+</tr>
+</table>
+
+<hr style="border:1px solid #5EEAD4;" />
+
+<!-- ================= FUTURE SKILLS ================= -->
+<h2 style="
+color:#9B5DE5;
+background: radial-gradient(circle, rgba(155,93,229,0.35), transparent 70%);
+padding:14px;
+border-radius:12px;
+text-shadow:0 0 10px #9B5DE5;
+">
+🌙 Upcoming Focus Areas
+</h2>
 
 <p style="color:#CBD5E1;">
 ⚔️ Beyond my current skill set, I’m preparing for the next stage of my journey — learning how intelligent systems think, learn, and adapt.
@@ -93,10 +110,19 @@ I observe first, understand deeply, and then build with intent.
 ⚔️ Today I train in code, tomorrow I shape intelligent systems.
 </p>
 
-<hr style="border:1px solid #9B5DE5;"/>
+<hr style="border:1px solid #9B5DE5;" />
 
-<!-- ================= TECH ================= -->
-<h2 style="color:#5EEAD4;">🦋 Technologies I Work With</h2>
+<!-- ================= TECH STACK ================= -->
+<h2 style="
+color:#5EEAD4;
+background: radial-gradient(circle, rgba(94,234,212,0.35), transparent 70%);
+padding:14px;
+border-radius:12px;
+text-shadow:0 0 10px #5EEAD4;
+">
+🦋 Technologies I Work With
+</h2>
+
 <h4 style="color:#9B5DE5;">My Arsenal</h4>
 
 <p style="color:#E9D5FF;">
@@ -104,52 +130,97 @@ I observe first, understand deeply, and then build with intent.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,python,java,php,flask,numpy,pandas,sklearn,sql,postgres,tableau,powerbi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,python,java,flask,numpy,pandas,sklearn,php,sql,postgres,tableau,powerbi,javascript&theme=dark" />
 </p>
 
 <p align="center" style="color:#FBCFE8;">
 🌸 Not mastery yet — but disciplined training every day.
 </p>
 
-<hr style="border:1px solid #5EEAD4;"/>
+<hr style="border:1px solid #5EEAD4;" />
 
 <!-- ================= GITHUB STATS ================= -->
-<h2 style="color:#9B5DE5;">📊 GITHUB STATS — The Training Records</h2>
+<h2 style="
+color:#9B5DE5;
+background: radial-gradient(circle, rgba(155,93,229,0.35), transparent 70%);
+padding:14px;
+border-radius:12px;
+text-shadow:0 0 10px #9B5DE5;
+">
+📊 GITHUB STATS — The Training Records
+</h2>
 
 <p style="color:#A5F3FC;">
 🦋 Progress is built quietly, day by day.
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Vaishnavi20032903&show_icons=true&theme=radical&hide_border=true"
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi20032903&theme=radical&hide_border=true"
-    width="48%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi20032903&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi20032903&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi20032903&layout=compact&theme=radical&hide_border=true"
-    width="50%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi20032903&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaishnavi20032903&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaishnavi20032903&theme=radical" width="92%" />
 </p>
 
 <p style="color:#F9A8D4;">
 ⚔️ Still training — still improving.
 </p>
 
+<hr style="border:1px solid #9B5DE5;" />
+
+<!-- ================= FEATURED PROJECTS ================= -->
+<h3 style="
+color:#9B5DE5;
+background: radial-gradient(circle, rgba(155,93,229,0.35), transparent 70%);
+padding:12px;
+border-radius:12px;
+text-shadow:0 0 10px #9B5DE5;
+">
+⭐ Highlighted Work
+</h3>
+
+<p style="color:#A5F3FC;">
+Projects where ideas turn into real, working solutions
+</p>
+
+<ul style="color:#E0F2FE;">
+  <li>⚔️ <b>Mission: College Website System</b> — HTML, CSS, JavaScript, PHP — ✅ Completed</li>
+  <li>⚔️ <b>Mission: Department Web Portal</b> — HTML, CSS, JavaScript — 🌱 Improving</li>
+  <li>⚔️ <b>Mission: Data Visualization Dashboard</b> — Power BI — 🔍 Learning & Expanding</li>
+</ul>
+
+<hr style="border:1px solid #5EEAD4;" />
 
 <!-- ================= CONNECT ================= -->
-<h3 style="color:#9B5DE5;">🌐 Let’s Connect Outside GitHub</h3>
+<h3 style="
+color:#9B5DE5;
+background: radial-gradient(circle, rgba(155,93,229,0.35), transparent 70%);
+padding:12px;
+border-radius:12px;
+text-shadow:0 0 10px #9B5DE5;
+">
+🌐 Let’s Connect Outside GitHub
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/💼%20View%20My%20LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+<!-- ================= SNAKE ================= -->
+<h2 align="center" style="color:#9B5DE5; text-shadow:0 0 10px #9B5DE5;">
+🐍 Contribution Flow
+</h2>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center" style="color:#A78BFA;">
