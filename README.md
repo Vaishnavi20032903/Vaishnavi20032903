@@ -1,6 +1,6 @@
 <!-- ================= TOP HERO IMAGE ================= -->
 <p align="center">
-  <img src="./image1.jpg" width="85%" />
+  <img src="./image1.jpg" width="55%" />
 </p>
 
 <!-- ================= BIG WELCOME HEADING ================= -->
