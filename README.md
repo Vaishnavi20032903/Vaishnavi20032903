@@ -172,15 +172,7 @@ text-shadow:0 0 10px #9B5DE5;
 🦋 Progress is built quietly, day by day.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi20032903&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi20032903&theme=radical&hide_border=true" width="45%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi20032903&layout=compact&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaishnavi20032903&theme=radical" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaishnavi20032903&theme=radical" width="92%" />
@@ -243,7 +235,3 @@ text-shadow:0 0 10px #9B5DE5;
 
 <p align="center" style="color:#A78BFA;">
 🦋 I don’t rush mastery — I practice it.
-</p>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
