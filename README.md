@@ -22,9 +22,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaishnavibhakare&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS&labelColor=0d0d0d)
-[![GitHub followers](https://img.shields.io/github/followers/vaishnavibhakare?style=for-the-badge&color=00f5ff&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/vaishnavibhakare)
-[![GitHub stars](https://img.shields.io/github/stars/vaishnavibhakare?style=for-the-badge&color=00f5ff&labelColor=0d0d0d&label=STARS)](https://github.com/vaishnavibhakare)
+![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi20032903&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS&labelColor=0d0d0d)
+[![GitHub followers](https://img.shields.io/github/followers/Vaishnavi20032903?style=for-the-badge&color=00f5ff&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/Vaishnavi20032903)
+[![GitHub stars](https://img.shields.io/github/stars/Vaishnavi20032903?style=for-the-badge&color=00f5ff&labelColor=0d0d0d&label=STARS)](https://github.com/Vaishnavi20032903)
 
 </div>
 
@@ -170,7 +170,7 @@ fun_fact: >
 ### 🤖 AI Email Sorting Bot
 > Intelligent email classification and routing agent powered by NLP and ML pipelines. Automates inbox management with smart categorization.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/vaishnavibhakare/ai-email-sorting-bot)
+[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Vaishnavi20032903/ai-email-sorting-bot)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00f5ff)
 ![NLP](https://img.shields.io/badge/NLP-0d0d0d?style=flat-square&logo=spacy&logoColor=09A3D5)
 
@@ -180,7 +180,7 @@ fun_fact: >
 ### 🧳 Automated Job Application Agent
 > AI-powered autonomous agent that searches, filters, and applies for jobs. Built with LLMs and browser automation.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/vaishnavibhakare/automated-job-agent)
+[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Vaishnavi20032903/automated-job-agent)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00f5ff)
 ![Automation](https://img.shields.io/badge/Automation-0d0d0d?style=flat-square&logo=robotframework&logoColor=00f5ff)
 
@@ -192,7 +192,7 @@ fun_fact: >
 ### 🦾 Human Detection for Industrial Robots
 > Real-time computer vision system for human presence detection in robotic workspaces. Safety-critical application using OpenCV & deep learning.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/vaishnavibhakare/human-detection-robots)
+[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Vaishnavi20032903/human-detection-robots)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=5C3EE8)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00f5ff)
 
@@ -202,7 +202,7 @@ fun_fact: >
 ### ♟️ Harry Potter 3D Chess Game
 > Immersive 3D chess game with Harry Potter universe theming. Features animated pieces, spellcasting effects, and fantasy UI.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/vaishnavibhakare/hp-3d-chess)
+[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Vaishnavi20032903/hp-3d-chess)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![3D](https://img.shields.io/badge/3D-0d0d0d?style=flat-square&logo=threedotjs&logoColor=ffffff)
 
@@ -214,7 +214,7 @@ fun_fact: >
 ### ✍️ Air Writing Recognition System
 > Gesture-based air writing system that recognizes handwritten characters traced in mid-air using computer vision and CNN models.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/vaishnavibhakare/air-writing-recognition)
+[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Vaishnavi20032903/air-writing-recognition)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=5C3EE8)
 ![CNN](https://img.shields.io/badge/CNN-0d0d0d?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
@@ -224,7 +224,7 @@ fun_fact: >
 ### 📊 AI Dataset Analysis Bot
 > Conversational AI bot that analyzes datasets, generates insights, creates visualizations, and answers natural language queries about data.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/vaishnavibhakare/ai-dataset-bot)
+[![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Vaishnavi20032903/ai-dataset-bot)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00f5ff)
 ![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=150458)
 
@@ -248,8 +248,8 @@ fun_fact: >
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaishnavibhakare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0e9ff&ring_color=00f5ff&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavibhakare&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d0d0d&border_color=00f5ff&title_color=00f5ff&text_color=a0e9ff&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi20032903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0e9ff&ring_color=00f5ff&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi20032903&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d0d0d&border_color=00f5ff&title_color=00f5ff&text_color=a0e9ff&hide_border=false"/>
 
 </div>
 
@@ -257,7 +257,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavibhakare&theme=tokyonight&background=0d0d0d&border=00f5ff&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakNum=a0e9ff&sideNums=a0e9ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=6e7681&hide_border=false" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi20032903&theme=tokyonight&background=0d0d0d&border=00f5ff&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakNum=a0e9ff&sideNums=a0e9ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=6e7681&hide_border=false" width="70%"/>
 
 </div>
 
@@ -275,7 +275,7 @@ fun_fact: >
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavibhakare&bg_color=0d0d0d&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=0f3460&border_color=00f5ff&custom_title=Vaishnavi's%20Contribution%20Graph&title_color=00f5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi20032903&bg_color=0d0d0d&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=0f3460&border_color=00f5ff&custom_title=Vaishnavi's%20Contribution%20Graph&title_color=00f5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -293,7 +293,7 @@ fun_fact: >
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaishnavibhakare&theme=matrix&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false&title_color=00f5ff&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vaishnavi20032903&theme=matrix&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false&title_color=00f5ff&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -312,9 +312,9 @@ fun_fact: >
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaishnavibhakare/vaishnavibhakare/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaishnavibhakare/vaishnavibhakare/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaishnavibhakare/vaishnavibhakare/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
@@ -333,10 +333,10 @@ fun_fact: >
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0d0d)](https://linkedin.com/in/vaishnavibhakare)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d)](https://github.com/vaishnavibhakare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0d0d)](https://linkedin.com/in/Vaishnavi20032903)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d)](https://github.com/Vaishnavi20032903)
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d0d)](mailto:vaishnavi.bhakare@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00f5ff&labelColor=0d0d0d)](https://vaishnavibhakare.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00f5ff&labelColor=0d0d0d)](https://Vaishnavi20032903.dev)
 
 </div>
 
