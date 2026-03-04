@@ -1,26 +1,38 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    HEADER / BANNER SECTION                    -->
+<!--                      HERO IMAGE — TOP BANNER                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="./image1.jpg" width="100%" alt="Vaishnavi Banner"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED WAVE HEADER                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0533,80:0f3460,100:16213e&height=180&section=header&text=Hey%2C%20Welcome%20to%20Vaishnavi%E2%80%99s%20GitHub%20World&fontSize=32&fontColor=00f5ff&animation=scaleIn&fontAlignY=55&desc=Where%20creativity%20drifts%20and%20logic%20takes%20form&descAlignY=78&descAlign=50&descSize=16&descColor=a0e9ff" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TYPING ANIMATION                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=200&section=header&text=Vaishnavi%20Bhakare&fontSize=52&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Automation%20Builder&descAlignY=60&descAlign=50&descSize=18&descColor=a0e9ff" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Vaishnavi+Bhakare;AI+Developer+%F0%9F%A4%96+%7C+Data+Enthusiast+%F0%9F%93%8A;Automation+Builder+%E2%9A%99%EF%B8%8F+%7C+ML+Explorer+%F0%9F%94%AC;Building+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Hi+%F0%9F%91%8B+I'm+Vaishnavi+Bhakare;AI+Developer+%F0%9F%A4%96+%7C+Data+Enthusiast+%F0%9F%93%8A;Automation+Builder+%E2%9A%99%EF%B8%8F+%7C+ML+Explorer+%F0%9F%94%AC;Building+Intelligent+Systems+%F0%9F%9A%80;Where+Creativity+Drifts+%26+Logic+Takes+Form+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       VISITOR COUNTER                         -->
+<!--                  VISITOR COUNTER + BADGES                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img src="https://count.getloli.com/@:Vaishnavi20032903?theme=yousa-ling&padding=2&offset=0&scale=0.6&align=top&pixelated=1&darkmode=auto" alt="Visitor Counter"/>
+
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi20032903&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS&labelColor=0d0d0d)
 [![GitHub followers](https://img.shields.io/github/followers/Vaishnavi20032903?style=for-the-badge&color=00f5ff&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/Vaishnavi20032903)
@@ -30,46 +42,48 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        ABOUT ME SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0f3460&height=3&section=header" width="100%"/>
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; `whoami`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp;`whoami`
 
 <br>
 
-<table align="center" border="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```yaml
-name: Vaishnavi Bhakare
-role: AI Developer & Data Enthusiast
+name:     Vaishnavi Bhakare
+role:     AI Developer & Data Enthusiast
 location: India 🇮🇳
-education: Computer Science Graduate
-focus:
-  - Artificial Intelligence & ML
-  - Data Science & Analytics
-  - Automation & Intelligent Bots
-  - Robotics Safety Systems
-  - Web Development
+degree:   Computer Science Graduate
+
+passions:
+  ⚡ Artificial Intelligence & ML
+  📊 Data Science & Analytics
+  🤖 Automation & Intelligent Bots
+  🦾 Robotics Safety Systems
+  🌐 Web Development
+
 currently_building:
-  - AI-powered email & job agents
-  - Computer vision systems
-  - Intelligent automation tools
-fun_fact: >
-  I teach machines to see, think, 
+  → AI-powered email & job agents
+  → Computer vision safety systems
+  → Intelligent automation bots
+  → AI dataset analysis tools
+
+quote: >
+  I teach machines to see, think,
   and act — one model at a time 🤖
 ```
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="48%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius: 12px;"/>
+<img src="./image2.jpg" width="340" alt="Vaishnavi Coding"/>
 
 </td>
 </tr>
@@ -85,13 +99,15 @@ fun_fact: >
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp;`Tech Stack & Arsenal`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> &nbsp;`Tech Stack & Arsenal`
 
 <br>
 
@@ -115,7 +131,10 @@ fun_fact: >
 [![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com)
+[![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)](https://tailwindcss.com)
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-0d0d0d?style=for-the-badge&logo=codeigniter&logoColor=EF4223)](https://codeigniter.com)
+[![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 
 </div>
 
@@ -123,11 +142,11 @@ fun_fact: >
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00f5ff)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=150458)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=013243)](https://numpy.org)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=5C3EE8)](https://opencv.org)
+[![Anaconda](https://img.shields.io/badge/Anaconda-0d0d0d?style=for-the-badge&logo=anaconda&logoColor=44A833)](https://anaconda.com)
 
 </div>
 
@@ -137,21 +156,24 @@ fun_fact: >
 
 [![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com)
+[![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
 [![Power BI](https://img.shields.io/badge/Power_BI-0d0d0d?style=for-the-badge&logo=powerbi&logoColor=F2C811)](https://powerbi.microsoft.com)
 [![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=336791)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://mysql.com)
+[![Canva](https://img.shields.io/badge/Canva-0d0d0d?style=for-the-badge&logo=canva&logoColor=00C4CC)](https://canva.com)
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,php,html,css,git,github,vscode,postgres,opencv,tensorflow,pandas&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=tailwind,py,aws,bootstrap,c,cpp,js,html,css,react,mysql,numpy,pandas,php,postgres,vscode,git,github,opencv,codeigniter&theme=dark&perline=10" />
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    PROJECT SHOWCASE SECTION                   -->
@@ -178,7 +200,7 @@ fun_fact: >
 <td width="50%" valign="top">
 
 ### 🧳 Automated Job Application Agent
-> AI-powered autonomous agent that searches, filters, and applies for jobs. Built with LLMs and browser automation.
+> AI-powered autonomous agent that searches, filters, and applies for jobs. Built with LLMs and browser automation for hands-free job hunting.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Vaishnavi20032903/automated-job-agent)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00f5ff)
@@ -200,7 +222,7 @@ fun_fact: >
 <td width="50%" valign="top">
 
 ### ♟️ Harry Potter 3D Chess Game
-> Immersive 3D chess game with Harry Potter universe theming. Features animated pieces, spellcasting effects, and fantasy UI.
+> Immersive 3D chess game with Harry Potter universe theming. Features animated pieces, spellcasting effects, and a fantasy UI.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Vaishnavi20032903/hp-3d-chess)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -236,7 +258,7 @@ fun_fact: >
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB STATS SECTION                      -->
@@ -248,8 +270,8 @@ fun_fact: >
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi20032903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0e9ff&ring_color=00f5ff&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi20032903&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d0d0d&border_color=00f5ff&title_color=00f5ff&text_color=a0e9ff&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi20032903&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnavi20032903&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"/>
 
 </div>
 
@@ -257,13 +279,13 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi20032903&theme=tokyonight&background=0d0d0d&border=00f5ff&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakNum=a0e9ff&sideNums=a0e9ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=6e7681&hide_border=false" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Vaishnavi20032903&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"/>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      ACTIVITY GRAPH                           -->
@@ -275,13 +297,13 @@ fun_fact: >
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi20032903&bg_color=0d0d0d&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=0f3460&border_color=00f5ff&custom_title=Vaishnavi's%20Contribution%20Graph&title_color=00f5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi20032903&radius=16&theme=dracula&area=true&order=5&custom_title=Vaishnavi's%20Contribution%20Graph" height="300" alt="activity-graph"/>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TROPHIES SECTION                        -->
@@ -293,35 +315,35 @@ fun_fact: >
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vaishnavi20032903&theme=matrix&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false&title_color=00f5ff&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;`Contribution Snake`
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://github-profile-trophy.vercel.app?username=Vaishnavi20032903&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 
 </div>
 
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   PACMAN CONTRIBUTION GRAPH                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🕹️ &nbsp;`Pac-Man Contribution Graph`
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vaishnavi20032903/Vaishnavi20032903/output/pacman-contribution-graph.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      SOCIAL LINKS SECTION                     -->
@@ -333,12 +355,36 @@ fun_fact: >
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0d0d)](https://linkedin.com/in/Vaishnavi20032903)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d)](https://github.com/Vaishnavi20032903)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d0d)](mailto:vaishnavi.bhakare@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00f5ff&labelColor=0d0d0d)](https://Vaishnavi20032903.dev)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/Vaishnavi20032903)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Vaishnavi20032903)
+[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:vaishnavi.bhakare@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://Vaishnavi20032903.dev)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com)
+[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/Vaishnavi20032903)
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com)
+[![dev.to](https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge)](https://dev.to)
+[![Bluesky](https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge)](https://bsky.app)
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="36" alt="linkedin"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="36" alt="twitter"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="36" alt="discord"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="46" height="36" alt="youtube"/>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br>
 
@@ -352,12 +398,10 @@ fun_fact: >
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let's+build+something+intelligent+together+%F0%9F%A4%96;Open+to+collaborations+%26+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=560&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let's+build+something+intelligent+together+%F0%9F%A4%96;Open+to+collaborations+%26+opportunities+%E2%9C%A8;Where+creativity+drifts+%26+logic+takes+form+%F0%9F%A6%8B)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a0533,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
